@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy Bypass -File C:\Windows\OEM\SetupComplete2.ps1
